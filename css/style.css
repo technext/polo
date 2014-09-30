@@ -282,7 +282,7 @@ span.bb-bottom-right {
     background: transparent;
     padding: 15px 0px;
     transition: all 0.5s;
-    z-index: 9999;
+    z-index: 99999;
 }
 .fixed {
     position: fixed;
@@ -869,8 +869,3 @@ input:-moz-placeholder, textarea:-moz-placeholder {
         padding: 5px 0px;
     }
 }
-
-
-
-
-
