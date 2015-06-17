@@ -1,0 +1,26 @@
+{
+    "name": "Polo",
+    "version": "2.0",
+    "homepage": "http://themewagon.com/demo/polo-responsive-app-landing-page-template",
+    "authors": [
+        "ThemeWagon <info@themewagon.com>"
+    ],
+    "description": "One page app landing HTML5 CSS3 template powered by Bootstrap 3.",
+    "keywords": [
+        "HTML5",
+        "CSS3",
+        "Bootstrap3",
+        "App",
+        "landing",
+        "one",
+        "page",
+        "template"
+    ],
+    "license": "MPL v2.0",
+    "dependencies": {
+        "bootstrap": "~3.3.4",
+        "ionicons": "~2.0.1",
+        "jquery": "~2.1.4",
+        "owl.carousel": "*"
+    }
+}
