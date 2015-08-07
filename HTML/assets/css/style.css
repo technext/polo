@@ -747,6 +747,15 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     color: #fff;
     font-weight: 300;
 }
+
+.footer-logo a:hover {
+    color: #00ceb8;
+}
+
+.footer-logo a {
+    color: #dadada;
+}
+
 .copyright {
     color: #fff;
     text-align: right;
